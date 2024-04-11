@@ -1,6 +1,6 @@
-# Ankit Kumar
+# Vincent Morales
 
-### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
+### I am a seasoned Android developer with 7 years of experience creating user-friendly and innovative mobile applications. Skilled in Java and Kotlin, I specialize in delivering high-quality apps that exceed user expectations. I thrive in collaborative environments and enjoy bringing ideas to life with cross-functional teams. With a passion for learning and staying updated with the latest technologies, I am dedicated to continuous improvement and innovation in mobile development.
 
 <a href="mailto:ankit.loma@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
@@ -117,7 +117,7 @@ This application is using the OpenCV for performing computer vision algorithms i
    LICENCE
 -----
 
- Copyright 2022 Ankit kumar
+ Copyright 2024 Vincent Morales
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
