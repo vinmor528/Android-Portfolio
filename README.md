@@ -2,7 +2,7 @@
 
 ### I am a seasoned Android developer with 7 years of experience creating user-friendly and innovative mobile applications. Skilled in Java and Kotlin, I specialize in delivering high-quality apps that exceed user expectations. I thrive in collaborative environments and enjoy bringing ideas to life with cross-functional teams. With a passion for learning and staying updated with the latest technologies, I am dedicated to continuous improvement and innovation in mobile development.
 
-<a href="mailto:vinmoral528@outlook.com"><img src="./images/email.png"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vincent-morales-69920254/" target="_blank"><img src="./images/linkedin.png" >
+<a href="mailto:vinmoral528@outlook.com"><img src="./images/email.png"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vincent-morales-8134a12b6/" target="_blank"><img src="./images/linkedin.png" >
 
 # Gojek/GOPAY Android
 Curretnly Working on the project for the android project. start working on some new feature
